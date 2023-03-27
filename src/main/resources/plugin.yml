@@ -1,0 +1,6 @@
+name: Helloworld
+version: '${project.version}'
+main: me.surprise432.helloworld.main
+api-version: 1.18
+commands:
+  test:
